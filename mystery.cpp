@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void mystery(int x, int y, int z) {
-
+    printf("%d %d %d\n", x, y, z);
 }
 
 int main() {
